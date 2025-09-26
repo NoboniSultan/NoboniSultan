@@ -30,8 +30,7 @@ I love creating art — painting & sketching portraits are my jam 🖌️🖼️
 
 ---
 
-### 🌟 
-> “Code is like art — each line is a brushstroke shaping an idea into reality.”  
+ 
 
 ---
 
