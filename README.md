@@ -1,17 +1,15 @@
-![Banner](https://i.pinimg.com/originals/1f/4c/6b/1f4c6be8a97cbd77b3e0a93e932e3b89.jpg)
-
 # Hi, I'm Noboni!!
 
 * * *
 
 ## ‍ About Me
 
-  * [23]+ years of experience — [being alive].
-  * [Software Engineer] — [The Marcy Lab School].
-  * Born in [Bogura, Bangladesh] • Raised in [New York, NY] • Currently in [New York, NY].
-  * Strengths: [coding], [art], [collaboration].
-  * Outside of work: [I love cats].
-  * Mission: [To keep learning and creating, while making the spaces I enter a little brighter, warmer, and more inspiring].
+  * 23+ years of experience — being alive.
+  * Software Engineer — The Marcy Lab School.
+  * Born in Bangladesh • Raised in New York, NY • Currently in New York, NY.
+  * Strengths: coding, art, collaboration.
+  * Outside of work: I love cats.
+  * Mission: To keep learning and creating, while making the spaces I enter a little brighter, warmer, and more inspiring.
 
 * * *
 
@@ -48,24 +46,7 @@
 
 * * *
 
-##  Featured Projects
 
-| Project | Description | Tech Stack | Status |
-|---|---|---|---|
-| **Project 1** | Brief description of what it does | React / Node / Express | In Progress |
-| **Project 2** | Brief description | Python / Flask / PostgreSQL | Completed |
-| **Project 3** | Brief description | TypeScript / Knex.js / REST API | In Progress |
-
-* * *
-
-##  GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=radical" alt="GitHub Streak"/>
-</p>
-
-* * *
 
 ##  Connect
 
