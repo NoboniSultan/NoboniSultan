@@ -4,11 +4,9 @@
 
 ## ‍ About Me
 
-  * 23+ years of experience — being alive.
   * Software Engineer — The Marcy Lab School.
-  * Born in Bangladesh • Raised in New York, NY • Currently in New York, NY.
+  * Currently in New York, NY.
   * Strengths: coding, art, collaboration.
-  * Outside of work: I love cats.
   * Mission: To keep learning and creating, while making the spaces I enter a little brighter, warmer, and more inspiring.
 
 * * *
