@@ -1,55 +1,49 @@
-# Hi, I'm Noboni!!
+# Hi there, I'm Noboni Sultan 👋
 
-* * *
+Welcome to my corner of GitHub! I'm a frontend developer in training, learning to build things for the web one line of code at a time.
 
-## ‍ About Me
+## About Me
 
-  * Software Engineer — The Marcy Lab School.
-  * Currently in New York, NY.
-  * Strengths: coding, art, collaboration.
-  * Mission: To keep learning and creating, while making the spaces I enter a little brighter, warmer, and more inspiring.
+I'm on a journey to become a thoughtful frontend developer. What draws me to this work is the chance to create interfaces that feel good to use—clean, accessible, and designed with real people in mind. I believe good code should be as readable as good writing, and I'm working every day to get better at both.
 
-* * *
+Right now, I'm focused on building a strong foundation and understanding *why* things work, not just *how* to make them work.
 
-##  Tech Stack
+## What I'm Working With
 
-### Languages
+Here's what's in my toolkit so far:
 
-<p align="left">
-  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
-</p>
+- **HTML & CSS** – Building semantic, accessible markup and styling with care
+- **JavaScript** – Bringing interactivity to the page and learning to think in logic
+- **Flexbox & Grid** – Creating layouts that adapt and respond
+- **Responsive Design** – Making sure things look good everywhere
 
-### Frameworks & Libraries
+I'm not an expert yet, but I'm comfortable with these tools and getting more confident each day.
 
-<p align="left">
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
-  <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img alt="Knex.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/knexjs/knexjs-original.svg" width="40"/>
-</p>
+## Projects
 
-### Tools & Platforms
+### 🌐 Personal Portfolio Website
+A place to showcase my work and experiments. It's a living project—I keep updating it as I learn new things.  
+[View Portfolio](https://nobonisultan.github.io/portfolio)
 
-<p align="left">
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  <img alt="Vite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40"/>
-  <img alt="Cloudinary" src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1628143376/creative_source/Cloud%20Glyph/cloudinary_blue.png" width="40"/>
-  <img alt="REST API" src="https://img.icons8.com/external-flat-juicy-fish/344/external-api-coding-and-development-flat-flat-juicy-fish.png" width="40"/>
-</p>
+## Learning with AI
 
-* * *
+I'm using AI tools to help me learn JavaScript faster and more deeply. It's like having a patient tutor who can explain concepts in different ways until they click. I see it as a learning accelerator, not a replacement for understanding—I still write every line myself and make sure I know what it does.
 
+## What I'm Learning Next
 
+- Deepening my JavaScript skills (DOM manipulation, event handling, ES6+ features)
+- Exploring modern CSS techniques (animations, custom properties)
+- Getting comfortable with Git and version control best practices
+- Learning how to break down bigger projects into manageable pieces
 
-##  Connect
+## Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/nobonisultan/)
-- [Twitter / X](https://x.com/noboni_prova)
-- [Instagram](https://www.instagram.com/noboni_sultan/)
+I'm always happy to connect with other learners and developers. Feel free to reach out if you want to collaborate, share resources, or just say hi.
 
+- 📧 Email: sultannoboni@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/nobonisultan](https://linkedin.com/in/nobonisultan)
+
+---
+
+Thanks for stopping by! Feel free to explore my projects and see what I'm building. 🚀
 * * *
