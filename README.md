@@ -1,10 +1,10 @@
 # Hi there, I'm Noboni Sultan 👋
 
-Welcome to my corner of GitHub! I'm a frontend developer in training, learning to build things for the web one line of code at a time.
+Welcome to my corner of GitHub! I'm a full-stack developer in training, learning to build things for the web one line of code at a time.
 
 ## About Me
 
-I'm on a journey to become a thoughtful frontend developer. What draws me to this work is the chance to create interfaces that feel good to use -clean, accessible, and designed with real people in mind. I believe good code should be as readable as good writing, and I'm working every day to get better at both.
+I'm on a journey to become a thoughtful full-stack developer. What draws me to this work is the chance to create interfaces that feel good to use -clean, accessible, and designed with real people in mind. I believe good code should be as readable as good writing, and I'm working every day to get better at both.
 
 Right now, I'm focused on building a strong foundation and understanding *why* things work, not just *how* to make them work.
 
