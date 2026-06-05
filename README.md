@@ -21,7 +21,7 @@ Here's what's in my toolkit so far:
 
 ### 🌐 Personal Portfolio Website
 A place to showcase my work and experiments. It's a living project—I keep updating it as I learn new things.  
-[View Portfolio](https://nobonisultan.github.io/portfolio)
+[View Portfolio](https://nobonisultan.github.io/)
 
 ## What I'm Learning Next
 
