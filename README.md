@@ -15,6 +15,8 @@ I'm on a journey to become a thoughtful full-stack developer. I believe good cod
 
 ![](https://github-profile-trophy.vercel.app/?username=NoboniSultan&theme=darcula&no-frame=false&no-bg=true&margin-w=4)
 
+<img src="https://raw.githubusercontent.com/NoboniSultan/NoboniSultan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
