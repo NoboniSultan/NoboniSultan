@@ -9,6 +9,7 @@ I'm on a journey to become a thoughtful full-stack developer. I believe good cod
 <img src="https://raw.githubusercontent.com/NoboniSultan/NoboniSultan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nobonisultan/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@provasultan) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/nabonip) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@noboniprova) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sultannoboni@gmail.com) 
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
