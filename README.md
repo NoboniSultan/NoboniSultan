@@ -5,11 +5,11 @@
   <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg">
   <img src="./banner-light.svg" alt="Noboni Sultan">
 </picture>
-<p align="center"><a href="https://nobonisultan.github.io/">nobonisultan.github.io</a></p>
 
 > *I make things with curiosity and intention.*
 
 I'm a software engineering fellow at Marcy Lab School in Brooklyn, New York, building full-stack applications with the PERN stack. I care deeply about visual design — a lot of apps are starting to look the same these days because of AI-generated templates, and I believe the human touch is what actually makes an interface feel good to use. That's what I try to bring to every project I build. Outside of code, I make clay sculptures, paint, and sing.
+<p align="center"><a href="https://nobonisultan.github.io/">Portfolio</a></p>
 
 ## ❖ Featured Projects ❖
 </div>
