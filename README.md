@@ -6,7 +6,7 @@
   <img src="./banner-light.svg" alt="Noboni Sultan">
 </picture>
 
-> *I build with intention — because software, like anything worth making, should feel human.*
+> *I make things with curiosity and intention.*
 
 I'm a software engineering fellow at Marcy Lab School in Brooklyn, New York, building full-stack applications with the PERN stack. I care deeply about visual design — a lot of apps are starting to look the same these days because of AI-generated templates, and I believe the human touch is what actually makes an interface feel good to use. That's what I try to bring to every project I build. Outside of code, I make clay sculptures, paint, and sing.
 
@@ -87,19 +87,6 @@ A full-stack food ordering platform for a local restaurant — customers can bro
 
 ## ❖ Socials ❖
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nobonisultan/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@provasultan) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/nabonip) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@noboniprova) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sultannoboni@gmail.com)
-
-## ❖ GitHub Stats ❖
-
-![](https://streak-stats.demolab.com/?user=NoboniSultan&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=NoboniSultan&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-![](https://github-profile-trophy.vercel.app/?username=NoboniSultan&theme=darcula&no-frame=false&no-bg=true&margin-w=4)
-
-<img src="https://raw.githubusercontent.com/NoboniSultan/NoboniSultan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-## ❖ Random Dev Quote ❖
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nobonisultan/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@provasultan) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/nabonip) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@noboniprova) [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sultannoboni@gmail.com)
 
 </div>
